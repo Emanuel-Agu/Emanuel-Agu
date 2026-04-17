@@ -1,6 +1,6 @@
 # Hi, I'm Emanuel 👋
 
-Applied economist and PhD candidate at the **CUNY Graduate Center** (defense August 2026). I work on **labor economics, intergenerational mobility, and urban form** — using large-scale microdata, spatial methods, and satellite imagery to understand how place shapes economic opportunity.
+Applied economist and PhD candidate at the **CUNY Graduate Center** (defense Fall 2026). I work on **labor economics, intergenerational mobility, and urban form** — using large-scale microdata, spatial methods, and satellite imagery to understand how place shapes economic opportunity.
 
 🌐 [emanuel-agu.github.io](https://emanuel-agu.github.io/) &nbsp;·&nbsp; ✉️ emanuel.agu@baruch.cuny.edu &nbsp;·&nbsp; 📍 New York, NY
 
@@ -9,7 +9,7 @@ Applied economist and PhD candidate at the **CUNY Graduate Center** (defense Aug
 ## What I'm working on
 
 - **CUNY College Mobility** — 20 years of student-level administrative records across 25 CUNY campuses, geocoded to neighborhood of origin, used to quantify how broad-access colleges drive upward mobility. *(Code private — FERPA-constrained student data.)*
-- **Urbanization & Intergenerational Mobility** — How urban form (built-up area, fragmentation, density) shapes children's economic outcomes across 70,000+ U.S. census tracts. Uses GHSL satellite imagery + Opportunity Atlas. *(Working paper; code in private repos.)*
+- **Does the Built Environment Causally Affect Intergenerational Mobility?** — How urban form (built-up area, fragmentation, density) shapes children's economic outcomes across 70,000+ U.S. census tracts. Uses GHSL satellite imagery + Opportunity Atlas. *(Working paper; code in private repos.)*
 - **Pandemic Mortality in NYC** — Spatial visualization of excess mortality during COVID-19 using small-area estimation. Hart Island burial records geocoded to NYC neighborhoods.
 
 ---
