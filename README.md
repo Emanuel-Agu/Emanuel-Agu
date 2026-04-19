@@ -29,6 +29,7 @@ Most recent releases are archived on Zenodo with DOIs — see `CITATION.cff` in 
 
 - [`plural`](https://github.com/Emanuel-Agu/plural) — Place-level urban-rural indices (PLURAL)
 - [`techniques`](https://github.com/Emanuel-Agu/techniques) — Curated reference: deep learning with satellite & aerial imagery
+- [`Education-Inequality`](https://github.com/Kelsey026/Education-Inequality) — Interactive dashboard on education and economic opportunity (student micro-internship project, by Kelsey)
 
 ## Tools
 
