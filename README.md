@@ -32,7 +32,7 @@ Most recent releases are archived on Zenodo with DOIs — see `CITATION.cff` in 
 
 **Data & analysis:** Python (pandas, NumPy, geopandas, shapely, pysal, scikit-learn, matplotlib, Plotly), Stata, R  
 **Spatial:** QGIS, ArcGIS, GHSL, Census TIGER, Opportunity Atlas, NCDB  
-**Microdata:** IPUMS, PSID, NHGIS, DHS, MICS, LIS, SEDLAC, REDATAM  
+**Microdata:** IPUMS, PSID, NHGIS, DHS, MICS, LIS, REDATAM  
 **Methods:** Causal inference (IV, DiD), spatial econometrics, small-area estimation, geocoding pipelines
 
 ## Private repositories
