@@ -24,8 +24,11 @@ Most recent releases are archived on Zenodo with DOIs — see `CITATION.cff` in 
 | [`hart-island`](https://github.com/Emanuel-Agu/hart-island) | Stata, R | Geocoded analysis of NYC pandemic burial records |
 | [`Built_Up_Growth`](https://github.com/Emanuel-Agu/Built_Up_Growth) | R | Urban built-up area transitions (1975–2020) using GHSL |
 | [`degurba`](https://github.com/Emanuel-Agu/degurba) | Reference | Visual reference for the DEGURBA (Degree of Urbanization) classification — NYC / Minneapolis examples across 1975–2020 |
-| [`plural`](https://github.com/Emanuel-Agu/plural) | Python | Place-level urban-rural indices (PLURAL) — contributor |
-| [`techniques`](https://github.com/Emanuel-Agu/techniques) | Reference | Curated reference: deep learning with satellite & aerial imagery |
+
+## Work I follow
+
+- [`plural`](https://github.com/Emanuel-Agu/plural) — Place-level urban-rural indices (PLURAL)
+- [`techniques`](https://github.com/Emanuel-Agu/techniques) — Curated reference: deep learning with satellite & aerial imagery
 
 ## Tools
 
