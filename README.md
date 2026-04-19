@@ -3,7 +3,7 @@
 
 I work on **labor economics, intergenerational mobility, and urban form** — using large-scale microdata, spatial methods, and satellite imagery to understand how place shapes economic opportunity.
 
-🌐 [emanuel-agu.github.io](https://emanuel-agu.github.io/) &nbsp;·&nbsp; ✉️ emanuel.agu@baruch.cuny.edu &nbsp;·&nbsp; 📍 New York, NY
+🌐 [emanuel-agu.github.io](https://emanuel-agu.github.io/)
 
 ---
 
