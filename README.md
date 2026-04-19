@@ -1,9 +1,7 @@
 # Emanuel Agu
 ### Applied Economist · PhD Candidate, CUNY Graduate Center
 
-I work on **urban economics and inequality** using large-scale microdata, spatial methods, and satellite imagery to understand how place shapes economic opportunity.
-
-🌐 [emanuel-agu.github.io](https://emanuel-agu.github.io/)
+I work on **urban economics and inequality** using large-scale microdata, spatial methods, and satellite imagery to understand how place shapes economic opportunity. Full CV and writing at [emanuel-agu.github.io](https://emanuel-agu.github.io/).
 
 ---
 
