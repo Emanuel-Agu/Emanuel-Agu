@@ -37,7 +37,7 @@ Most recent releases are archived on Zenodo with DOIs — see `CITATION.cff` in 
 
 ## Private repositories
 
-Most of my dissertation work and consulting code lives in private repos due to data-use agreements (CUNY administrative records, IRB-restricted survey data) or pre-publication status. **Happy to walk through code samples on request** — just send me an email.
+Most of my dissertation work and consulting code lives in private repos due to data-use agreements (CUNY administrative records, IRB-restricted survey data) or pre-publication status.
 
 ---
 
