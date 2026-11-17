@@ -7,7 +7,7 @@ I work on **urban economics and inequality** using large-scale microdata, spatia
 
 ## What I'm working on
 
-- **CUNY College Mobility** — 20 years of student-level administrative records across 25 CUNY campuses, geocoded to neighborhood of origin, used to quantify how broad-access colleges drive upward mobility. *(Code private; FERPA-constrained student data.)*
+- **Neighborhood Origins and Degree Attainment** — 20 years of student-level administrative records across the campuses of a large urban public university system, geocoded to neighborhood of origin, used to quantify how broad-access colleges drive upward mobility. *(Code private; FERPA-constrained student data.)*
 - **Does the Built Environment Causally Affect Intergenerational Mobility?** — How urban form (built-up area, fragmentation, density) shapes children's economic outcomes across neighborhoods in the United States. Uses satellite-derived data + Opportunity Atlas. *(Working paper; code in private repos.)*
 - **Forecasting Urban Densification** — Comparing seven statistical and machine-learning approaches for predicting where built-up land will intensify, with applications to climate-scenario (SSP) modeling. Five-country case study using satellite-derived data. *(Working paper; co-authored.)*
 
